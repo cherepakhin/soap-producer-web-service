@@ -1,0 +1,1 @@
+http http://localhost:8080/ws/countries.wsdl > test1_result.xml
